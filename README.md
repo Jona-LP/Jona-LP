@@ -1,6 +1,6 @@
 # _JONA-LP_
 
-## _Hi there_ 👋
+## _Hi coder fellows!_ 👋
 
 I am a math graduate crossing the road to become a data scientist.
 <!--
@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 
 -->
-- ⚡ Fun fact: I am an enthusiastic Lindy Hop dancer
+- ⚡ Fun fact: I am an enthusiastic Lindy Hop dancer 🕺.
+
+🤓
 
 ![Jona's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jona-lp&theme=monokai)
 
