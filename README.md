@@ -8,21 +8,22 @@ En la actualidad me encuentro completando un bootcamp en Data Science, con el pr
 
 En este sitio busco demostrar mis habilidades, compartir proyectos interesantes y realizar un seguimiento de mi progreso en temas relacionados al análisis y la ciencia de datos.
 
-Ver mi [CV](https://drive.proton.me/urls/6GB3S8FR8R#9QPsIbbkp2gq).
-
 ### About me
 Hi👋, my name is Jonathan! I have a solid analytical foundation thanks to my studies in Mathematics (fun fact: I also hold a degree in Philosophy). Throughout my education I’ve developed strong problem‑solving skills, applying data‑analysis techniques aimed at making optimal decisions.
 
 <!--
 Currently, I’m completing a Data Science bootcamp with the goal of expanding and strengthening my knowledge in statistical analysis, data handling, and visualization —essential tools for any data specialist.-->
 
-See my [CV](https://drive.proton.me/urls/6GB3S8FR8R#9QPsIbbkp2gq).
 
-This is a place to showcase my skills, share interesting projects and track my progress in Data Analysis and Data Science related topics. 
+This is a place to showcase my skills, share interesting projects and track my progress in Data Analysis and Data Science related topics.
 
-Email ➡︎ jlagospino@protonmail.com
 
-LinkedIn ➡︎  [linkedin.com/in/jonathan-lagos-pino](http://www.linkedin.com/in/jonathan-lagos-pino/)
+
+- See my [CV](https://drive.proton.me/urls/6GB3S8FR8R#9QPsIbbkp2gq)
+
+- Go to my [LinkedIn](http://www.linkedin.com/in/jonathan-lagos-pino/)
+
+- Follow me in [Instagram](https://www.instagram.com/_jonalakes_/)
 
 
 
