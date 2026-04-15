@@ -19,7 +19,7 @@ This is a place to showcase my skills, share interesting projects and track my p
 
 
 
-- See my [CV](https://drive.proton.me/urls/6GB3S8FR8R#9QPsIbbkp2gq)
+- See my [CV](https://github.com/Jona-LP/Data-Projects/blob/main/CV2026_Jonathan_Lagos**.pdf)
 
 - Read my [Portfolio Projects](https://github.com/Jona-LP/Data-Projects?tab=readme-ov-file#sobre-m%C3%AD)
 
